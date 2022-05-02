@@ -23,6 +23,7 @@ public class EnviromentValidation {
 		driver_chrome.get("https://www.google.com.ar/");
 		driver_chrome.quit();
 		
+		//edge variable
 		System.setProperty("webdriver.edge.driver", "D:\\Projects\\Java\\Testing_Java\\bin\\selenium_driver\\msedgedriver.exe");
 		WebDriver driverEdge = new EdgeDriver();
 		driverEdge.get("https://www.google.com.ar/");
