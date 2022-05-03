@@ -21,4 +21,4 @@ Módulo IV
 -	Plan de Pruebas de API
 
 Modulo V
-- Carpeta bin de Testing_Java contiene los paquetes y archivos de mis prácticas de selenium que voy generando en el cursado.  
+- Carpeta src de Testing_Java contiene los paquetes y archivos de mis prácticas de selenium que voy generando en el cursado.  
